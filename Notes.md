@@ -1,17 +1,8 @@
-# Comprehensive Semiconductor Physics Lecture Summary
-
-
-# Semiconductor Physics Lecture Summary
-
-## Course Objectives
-- Understand basic semiconductor material physics and fabrication processes.
-- Study characteristics of electronic devices like diodes and transistors.
+# Semiconductor Physics Lecture Notes
 
 ## Semiconductors Overview
 - Semiconductors lie between insulators and conductors in terms of electrical properties (e.g., silicon and germanium).
 - They have a narrow energy gap (around 1 eV) between the conduction and valence bands.
-
-![Energy Band Diagram](A_detailed_diagram_showing_the_energy_band_structu.png)
 
 ## Types of Semiconductors
 - **Intrinsic Semiconductors:** Made of pure materials like silicon or germanium with small energy gaps.
@@ -19,14 +10,10 @@
   - **N-type:** Doped with pentavalent elements (e.g., antimony), with electrons as majority carriers.
   - **P-type:** Doped with trivalent elements (e.g., boron), with holes as majority carriers.
 
-![Intrinsic and Extrinsic Semiconductors](A_diagram_showing_the_differences_between_intrinsi.png)
-
 ## P-N Junction
 - A two-terminal device consisting of a P-N junction, acting as a diode with distinct forward and reverse characteristics.
 - **Forward Characteristic:** Low resistance in the forward direction, allowing significant current flow when the threshold voltage is exceeded.
 - **Reverse Characteristic:** High resistance in the reverse direction with a small leakage current.
-
-![P-N Junction Diode](A_clear_diagram_of_a_P-N_junction_diode,_showing_t.png)
 
 ## Diode Parameters
 - **Bulk Resistance:** Sum of resistances from the P and N regions.
@@ -37,13 +24,9 @@
 - **Majority and Minority Carriers:** N-type has electrons as majority carriers, while P-type has holes as majority carriers.
 - **Reverse Saturation Current and Breakdown Voltage:** Describes the behavior of the diode under reverse bias.
 
-![Diode VI Characteristics](A_graph_showing_the_VI_characteristics_of_a_diode.png)
-
 ## Recommended Resources
 - Textbooks on semiconductor physics by authors like Donald A. Maemen and Pearson.
 - Online resources and video links for further study.
-
-
 
 # Zener Diode Lecture Summary
 
@@ -71,8 +54,6 @@
 ## Relevant Resources
 - Textbooks on semiconductor physics by authors like Donald A. Maemen and Pearson.
 - Online resources and reference books for further study.
-
-
 
 # P-N Junction and Diodes Lecture Summary
 
@@ -110,8 +91,6 @@
 ## Relevant Resources
 - Online tutorials and books on P-N junctions and diodes.
 - Recommended textbooks by authors like Donald A. Maemen and Pearson for detailed study.
-
-
 
 # Zener and Avalanche Breakdown Lecture Summary
 
