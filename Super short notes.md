@@ -31,5 +31,3 @@
 ## Diode Applications
 - **Rectifiers**: Convert AC to DC.
 - **Voltage regulators**: Maintain constant voltage.
-
-Focus on these points for a quick review before your exam!
