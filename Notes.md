@@ -24,10 +24,6 @@
 - **Majority and Minority Carriers:** N-type has electrons as majority carriers, while P-type has holes as majority carriers.
 - **Reverse Saturation Current and Breakdown Voltage:** Describes the behavior of the diode under reverse bias.
 
-## Recommended Resources
-- Textbooks on semiconductor physics by authors like Donald A. Maemen and Pearson.
-- Online resources and video links for further study.
-
 # Zener Diode Lecture Summary
 
 ## Zener Diode Overview
@@ -50,10 +46,6 @@
 ## Applications of Zener Diode
 - **Voltage Regulator:** Used to maintain a constant voltage across small loads by connecting in parallel to the load in reverse bias.
 - **Overvoltage Protection:** Provides protection by creating a short circuit to the ground if the input voltage exceeds the Zener breakdown voltage, thus protecting the circuit.
-
-## Relevant Resources
-- Textbooks on semiconductor physics by authors like Donald A. Maemen and Pearson.
-- Online resources and reference books for further study.
 
 # P-N Junction and Diodes Lecture Summary
 
@@ -130,12 +122,6 @@
 ## Conclusion
 - Zener breakdown is reversible and occurs at lower voltages, making it suitable for voltage regulation.
 - Avalanche breakdown is irreversible and occurs at higher voltages, potentially damaging the diode.
-
-## Relevant Resources
-- Online tutorials and books for detailed understanding of Zener and avalanche breakdown.
-- Recommended textbooks by authors like Donald A. Maemen and Pearson.
-
-
 
 ## Unique Insights and Summary
 
